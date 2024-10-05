@@ -7,3 +7,4 @@ distance
 bs4
 plotly
 matplotlib
+seaborn

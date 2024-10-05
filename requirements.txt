@@ -6,3 +6,4 @@ fuzzywuzzy
 distance
 bs4
 plotly
+matplotlib

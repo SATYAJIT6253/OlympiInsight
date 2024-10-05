@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+fuzzywuzzy
+distance
+bs4
+plotly
